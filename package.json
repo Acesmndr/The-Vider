@@ -1,0 +1,25 @@
+{
+  "name": "thevider",
+  "version": "2.0.0",
+  "description": "Split sceen your apps in Mac OSX using terminal",
+  "main": "index.js",
+  "bin": {
+    "thevider": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Acesmndr/The-Vider.git"
+  },
+  "keywords": [
+    "split-screen","mac","osx"
+  ],
+  "author": "acesmndr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Acesmndr/The-Vider/issues"
+  },
+  "homepage": "https://github.com/Acesmndr/The-Vider#readme"
+}
